@@ -32,8 +32,23 @@ Colonies de fourmis,
 - Les fourmis 
 - Les colonies de fourmis  => http://labo.algo.free.fr/pvc/algorithme_colonie_de_fourmis.html
 http://pageperso.lif.univ-mrs.fr/~michel.vancaneghem/mait/documents/cours4_8.pdf
+https://interstices.info/jcms/c_37686/le-probleme-du-voyageur-de-commerce
 
+### Solution
 
+root
+├───src
+│   ├───Common
+│   │   ├───Functions
+│   │   ├───Algorithms
+│   │   │   ├───Genetic
+│   ├───TSP
+│   │   ├───Data
+├───test
+├───build.sh
+├───build.cmd
+├───build.fs
+├───Readme.md
 
 
 
@@ -42,4 +57,4 @@ http://pageperso.lif.univ-mrs.fr/~michel.vancaneghem/mait/documents/cours4_8.pdf
 - use tsplib file format : https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp95.pdf
 - use actor model
 - use .net standard and .net core
-
+- Fsharp or c#
