@@ -5,13 +5,13 @@ dotnet code sample to resolver some NP-complet problems like TSP using different
 
 ### Problems :
 
-- TSP
+- TSP => http://labo.algo.free.fr/pvc/probleme_du_voyageur_de_commerce.html
 - sac a dos
 
 
 ### Algorithms
 
-Algorithme gloutons,
+Algorithme gloutons => http://labo.algo.free.fr/pvc/algorithme_glouton.html
 Méthodes de descente,
 Recuit simulé,
 Algorithme tabou,
@@ -23,13 +23,14 @@ Colonies de fourmis,
 - Algorithme de Little
 - approximation exacte
 - Recherche locale
-- Voisinage 2 opt 3 opt
-- Algorithmes génétiques 
+- plus proche voisin => http://labo.algo.free.fr/pvc/algorithme_plus_proches_voisins.html
+- Voisinage 2 opt 3 opt => http://labo.algo.free.fr/pvc/algorithme_2opt.html
+- Algorithmes génétiques => http://labo.algo.free.fr/pvc/algorithme_genetique.html
 - recuit simulé
 - Méthode de recherche Tabou
 - Le Devoir 2 
-- Les fourmis
-- Les colonies de fourmis 
+- Les fourmis 
+- Les colonies de fourmis  => http://labo.algo.free.fr/pvc/algorithme_colonie_de_fourmis.html
 http://pageperso.lif.univ-mrs.fr/~michel.vancaneghem/mait/documents/cours4_8.pdf
 
 
